@@ -1,11 +1,11 @@
-#### hr_data-analysis
+# hr_data-analysis
 
 This endeavor delves extensively into data analysis by employing SQL and Power BI to reveal valuable insights about human resources. The project showcases visually appealing dashboards that present essential HR metrics, including but not limited to employee turnover, diversity, recruitment effectiveness, and performance evaluations. These dashboards are invaluable tools for HR professionals, aiding them in making well-informed decisions and engaging in strategic workforce planning for the company's benefit.
 
-## Tools 
+### Tools 
 MS SQL SERVER 2022 and MS POWER BI
 
-## Data Source 
+### Data Source 
 The data contained 22,000 Human Resource records from 2000 to 2020. 
 
 ## Data Cleaning & Analysis:
@@ -21,7 +21,7 @@ This process was carried out using SQL Server 2022 and encompassed:
 
 ## Exploratory Data Analysis
 
-# Questions:
+### Questions:
 1. What is the age distribution in the company?
 2. What is the gender breakdown in the company?
 3. How does gender vary across departments and job titles?
@@ -33,7 +33,7 @@ This process was carried out using SQL Server 2022 and encompassed:
 9. What is the distribution of employees across different states?                                                                       10. How are job titles distributed in the company?
 11. How have employee hire counts varied over time?
 
-# Results:
+### Results:
 
 Demographic and Employment Insights:
 1. The company has a higher number of male employees compared to female or non-conforming individuals.
@@ -48,7 +48,7 @@ Demographic and Employment Insights:
 10. The company boasts 182 different job titles, with Research Assistant II having the highest count (634). In contrast, positions like Assistant Professor, Marketing Manager, Office Assistant IV, Associate Professor, and VP of Training and Development each have only one employee.
 11.  Over the years, there has been an increase in employee hiring counts.
 
-# SQL queries to answer questions from the data
+### SQL queries to answer questions from the data
 [hr_query.pdf](https://github.com/abiodunadedokun/hr_data-analysis/files/13974123/hr_query.pdf)
 
 
