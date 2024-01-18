@@ -6,7 +6,8 @@ This endeavor delves extensively into data analysis by employing SQL and Power B
 MS SQL SERVER 2022 and MS POWER BI
 
 ### Data Source 
-The data contained 22,000 Human Resource records from 2000 to 2020. 
+The data contains 22,000 Human Resource records from 2000 to 2020. [HR Data.csv](https://github.com/abiodunadedokun/hr_data-analysis/files/13974396/HR.Data.csv)
+
 
 ## Data Cleaning & Analysis:
 This process was carried out using SQL Server 2022 and encompassed:
